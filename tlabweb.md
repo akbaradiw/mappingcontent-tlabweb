@@ -4,37 +4,37 @@
 
 ### Indonesia
 
-1. **Perusahaan Penelitian dan Pengembangan Teknologi**
+- **Perusahaan Penelitian dan Pengembangan Teknologi**
 
 Perusahaan teknologi yang menciptakan solusi inovatif komprehensif, mengedepankan nilai transparansi, mengutamakan riset teknologi, dan pengembangan sumber daya manusia dengan tenaga profesional yang terbuka untuk berkolaborasi.
 
-1. **14+Tahun Pengalaman Luar Biasa**
+- **14+Tahun Pengalaman Luar Biasa**
 
 Talenta TLab telah menerima sertifikasi nasional dan internasional, yang mengakui keterampilan dan kemampuan luar biasa mereka.
 
-1. **Orang-orang Berbakat Mencapai Kesuksesan Luar Biasa**
+- **Orang-orang Berbakat Mencapai Kesuksesan Luar Biasa**
 
 Apakah Anda bersemangat tentang kolaborasi dan pertumbuhan bisnis Anda? TLab percaya pada kekuatan kerja tim dan orang-orang berbakat selalu memiliki solusi terbaik.
 
-1. **Pendekatan yang berfokus pada pelanggan memastikan kepuasan jangka panjang.**
+- **Pendekatan yang berfokus pada pelanggan memastikan kepuasan jangka panjang.**
 
 Mengkhususkan diri dalam menciptakan solusi perangkat lunak khusus yang memberdayakan bisnis untuk berkembang di dunia digital saat ini. Dengan tim yang terdiri dari pengembang terampil, pemikir inovatif, dan penggemar teknologi, kami berkomitmen untuk menghadirkan perangkat lunak berkualitas tinggi, terukur, dan hemat biaya yang mendorong kesuksesan.
 
 ### Inggris
 
-1. **Technology Research and Development Company**
+- **Technology Research and Development Company**
 
 A technology company that creates comprehensive innovative solutions, emphasizing transparency values, prioritizing technological research, and human resources development with professionals open to collaboration.
 
-1. **14+ Years Of Exceptional Experience**
+- **14+ Years Of Exceptional Experience**
 
 TLab Talents have received national and international certifications, recognizing their exceptional skills and abilities.
 
-1. **Talented People Achieving Remarkable Success**
+- **Talented People Achieving Remarkable Success**
 
 Are you passionate about collaboration and the growth of your business? TLab believe in the power of teamwork and talented people are always have best solution.
 
-1. **Deep Expertise Drives Outstanding Results**
+- **Deep Expertise Drives Outstanding Results**
 
 TLab believes that technology should adapt to the unique requirements of each business. That's why we provide IT development services that are tailored to meet your specific needs.
 
@@ -43,40 +43,38 @@ TLab believes that technology should adapt to the unique requirements of each bu
 ### Indonesia
 
 - Dengan pengalaman lebih dari 14 tahun di industri TI, TLab telah berhasil menyelesaikan banyak pekerjaan.
-
-1. **Kepakaran Mendalam**
+- **Kepakaran Mendalam**
 
 TLab sangat bangga dengan tim ahli yang berspesialisasi di setiap tahap pengembangan.
 
-1. **Orang-orang Berbakat**
+- **Orang-orang Berbakat**
 
 Lebih dari 100 Talenta TLab telah menerima sertifikasi nasional dan/atau internasional, yang mengakui keterampilan dan kemampuan luar biasa mereka.
 
-1. **Berpusat pada Pelanggan**
+- **Berpusat pada Pelanggan**
 
 TLab menjadikan misi untuk sepenuhnya memahami setiap kebutuhan dan preferensi klien. Dengan komunikasi proaktif dan transparan.
 
-1. **Keamanan Utama**
+- **Keamanan Utama**
 
 TLab menerapkan manajemen keamanan informasi sehingga kerahasiaan, integritas, dan ketersediaan informasi klien.
 
 ### Inggris
 
 - With over 14 years of experience in the IT industry, TLab have successfully completed an extensive amount of work.
-
-1. **Talented People**
+- **Talented People**
 
 100+ TLab Talents have received national and/or international certifications, recognizing their exceptional skills and abilities.
 
-1. **Deep Expertise**
+- **Deep Expertise**
 
 TLab takes great pride in the team of experts who specialize in every stage of development.
 
-1. **Customer Centric**
+- **Customer Centric**
 
 TLab makes its mission to fully grasp every client's needs and preferences with proactive communication and transparency.
 
-1. **Security First**
+- **Security First**
 
 TLab implements information security management so that the confidentiality, integrity, and availability of client information.
 
@@ -86,33 +84,33 @@ TLab implements information security management so that the confidentiality, int
 
 TLab menyediakan layanan pengembangan TI yang dipersonalisasi untuk memenuhi kebutuhan spesifik bisnis Anda.
 
-1. **Pengembangan Perangkat Lunak**
+**Pengembangan Perangkat Lunak**
 
 - Pengembangan Aplikasi Seluler
 - Pengembangan Web
 - Pengembangan API
 - Integrasi Sistem
 
-1. **Kecerdasan Buatan**
+**Kecerdasan Buatan**
 
 - Big Data
 - Data Lake
 - Data Warehouse
 - Kecerdasan Bisnis (Business Intelligence)
 
-1. **Pembelajaran Mesin dan Implementasi AI**
+**Pembelajaran Mesin dan Implementasi AI**
 
 - Robot Obrolan Cerdas
 - Manajemen Pengetahuan Cerdas
 
-1. **Penyedia Layanan TI Kelola**
+**Penyedia Layanan TI Kelola**
 
 - Konsultasi Teknologi Informasi
 - Konsultasi Pusat Data
 - Product Development
 - Perawatan Sistem
 
-1. **Kreatif, Desain & Produksi**
+**Kreatif, Desain & Produksi**
 
 - Brand Development
 - Desain Logo & Identitas Merek
@@ -122,33 +120,33 @@ TLab menyediakan layanan pengembangan TI yang dipersonalisasi untuk memenuhi keb
 
 TLab provides personalized IT development services to fit your specific business needs.
 
-1. **Software Development**
+**Software Development**
 
 - Mobile App Development
 - Web Development
 - API Development
 - System Integration
 
-1. **Data Intelligence**
+**Data Intelligence**
 
 - Big Data
 - Data Lake
 - Data Warehouse
 - Business Intelligence
 
-1. **Machine Learning and AI Implementation**
+**Machine Learning and AI Implementation**
 
 - Smart Chat Bot
 - Smart Knowledge Management System
 
-1. **IT Managed Services Provider (MSP)**
+**IT Managed Services Provider (MSP)**
 
 - IT Consulting
 - Data Center Consulting
 - Product Development
 - System Maintenance
 
-1. **Creative, Design & Production**
+**Creative, Design & Production**
 
 - Brand Development
 - Logo & Brand Identity Design
@@ -158,45 +156,45 @@ TLab provides personalized IT development services to fit your specific business
 
 ### Indonesia
 
-1. **Konsultasi**
+- **Konsultasi**
 
 Konsultasi dengan Tim IT Tlab untuk menggali requirement lebih detail sehingga nantinya informasi ini bisa membantu tim dalam membuat penawaran baik teknis maupun anggaran proyek. Hasil dari proses ini berupa proposal penawaran teknis (include timeline, keluaran pekerjaan, rencana tim) dan proposal anggaran proyek.
 
-1. **Presentasi**
+- **Presentasi**
 
 Dalam tahap ini, tim Bisnis TLab memberikan presentasi menarik yang tidak hanya memperkenalkan TLab, tetapi juga menawarkan solusi inovatif yang dapat mengatasi berbagai tantangan yang mungkin dihadapi oleh klien potensial.
 
-1. **Pengembangan**
+- **Pengembangan**
 
 Proses development dimulai dengan adanya kick-off meeting. Dalam prosesnya dilaporkan dalam bentuk meeting demo dan akses dashboard monitoring project sehingga dapat melihat progres development yang dilakukan oleh tim IT TLab. Tahapan pengembangan meliputi Research for User Requirement, Pembuatan Design Hifi, Development Backend & Frontend, dan Testing Internal (oleh tim TLab).
 
-1. **Penyerahan**
+- **Penyerahan**
 
 Melakukan deployment kepada pihak klien dan melakukan user testing, apabila sudah sesuai maka akan dilakukan serah terima aplikasi yang ditandai dengan penandatanganan berita acara serah terima.
 
-1. **Pemeliharaan**
+- **Pemeliharaan**
 
 Dukungan layanan pemeliharaan untuk menjaga sistem tetap berjalan dengan baik dan aman.
 
 ### Inggris
 
-1. **Consultation**
+- **Consultation**
 
 Consultation with the TLab IT Team to delve deeper into the requirements will provide information that can assist the team in creating both technical and budget proposals for the project. The result of this process will be a proposal that includes a technical offer (with timeline, deliverables, and team plan) and a project budget proposal.
 
-1. **Presentation**
+- **Presentation**
 
 In this phase, the TLab Business team delivers an engaging presentation that not only introduces TLab but also offers innovative solutions to address various challenges that potential clients may face.
 
-1. **Development**
+- **Development**
 
 The development process begins with a kick-off meeting. Progress is reported through demo meetings and access to the project monitoring dashboard, allowing you to see the development progress made by the TLab IT team. The development stages include User Requirements Research, HiFi Design Creation, Backend & Frontend Development, and Internal Testing (by the TLab team).
 
-1. **Delivery**
+- **Delivery**
 
 Deploying to the client and conducting user testing, if everything is satisfactory, the application will be handed over and marked by signing the handover report.
 
-1. **Maintenance**
+- **Maintenance**
 
 Support maintenance services to keep the system running smoothly and securely.
 
@@ -334,7 +332,7 @@ A technology company that creates comprehensive innovative solutions, emphasizin
 
 ### Indonesia
 
-1. **Openness**
+**Openness**
 
 Bersikap terbuka dalam menerima dan menyampaikan informasi berdasarkan data dan fakta dengan cara yang jelas dan transparan
 
@@ -342,7 +340,7 @@ Bersikap terbuka dalam menerima dan menyampaikan informasi berdasarkan data dan 
 - Open Management
 - Speak By Data
 
-1. **Thanks**
+**Thanks**
 
 Mari kita hargai anugerah yang telah diberikan Tuhan kepada kita dan tunjukkan rasa syukur kita dengan bekerja sepenuh hati dan memberikan yang terbaik untuk diri kita sendiri dan orang-orang di sekitar kita.
 
@@ -350,7 +348,7 @@ Mari kita hargai anugerah yang telah diberikan Tuhan kepada kita dan tunjukkan r
 - Do The Best
 - Contribute To The Community
 
-1. **Integrity**
+**Integrity**
 
 Mari kita berusaha menjadi individu yang dapat diandalkan dengan komitmen yang kuat dan disiplin untuk menjunjung tinggi nilai-nilai bersama.
 
@@ -358,7 +356,7 @@ Mari kita berusaha menjadi individu yang dapat diandalkan dengan komitmen yang k
 - Keep Promise
 - Reliable
 
-1. **Family Spirit**
+**Family Spirit**
 
 Mari kita memupuk hubungan yang harmonis berdasarkan saling menghormati dan pemahaman profesional.
 
@@ -366,7 +364,7 @@ Mari kita memupuk hubungan yang harmonis berdasarkan saling menghormati dan pema
 - Respect Each Other
 - Empathy & Harmony
 
-1. **Speed**
+**Speed**
 
 Mari kita berpikir cepat dan terukur, bertindak responsif, dan sepenuhnya siap untuk mencapai tujuan bersama.
 
@@ -374,7 +372,7 @@ Mari kita berpikir cepat dan terukur, bertindak responsif, dan sepenuhnya siap u
 - Fast Respond
 - Fail Fast Learn Faster
 
-1. **Togetherness**
+**Togetherness**
 
 Mari kita berkolaborasi secara terbuka dan transparan untuk mencapai tujuan bersama.
 
@@ -382,7 +380,7 @@ Mari kita berkolaborasi secara terbuka dan transparan untuk mencapai tujuan bers
 - Collaborative
 - Cooperative
 
-1. **Innovation**
+**Innovation**
 
 Mari kita mengembangkan rasa ingin tahu dan kreativitas yang tinggi untuk menghasilkan dan mewujudkan ide-ide baru dengan nilai praktis.
 
@@ -390,7 +388,7 @@ Mari kita mengembangkan rasa ingin tahu dan kreativitas yang tinggi untuk mengha
 - Curiosity
 - Divergent Thinking
 
-1. **Customer Centric**
+**Customer Centric**
 
 Mari kita berusaha menciptakan pengalaman yang luar biasa yang tidak hanya memenuhi tetapi melebihi harapan semua pemangku kepentingan.
 
@@ -400,7 +398,7 @@ Mari kita berusaha menciptakan pengalaman yang luar biasa yang tidak hanya memen
 
 ### Inggris
 
-1. **Openness**
+**Openness**
 
 Be open-minded in receiving and conveying information based on data and facts in a clear and transparent manner.
 
@@ -408,7 +406,7 @@ Be open-minded in receiving and conveying information based on data and facts in
 - Open Management
 - Speak By Data
 
-1. **Thanks**
+**Thanks**
 
 Let's cherish the gifts that God has given us and show our gratitude by working wholeheartedly and giving our best for ourselves and those around us.
 
@@ -416,7 +414,7 @@ Let's cherish the gifts that God has given us and show our gratitude by working 
 - Do The Best
 - Contribute To The Community
 
-1. **Integrity**
+**Integrity**
 
 Let's strive to become reliable individuals with a strong commitment and the discipline to uphold shared values.
 
@@ -424,7 +422,7 @@ Let's strive to become reliable individuals with a strong commitment and the dis
 - Keep Promise
 - Reliable
 
-1. **Family Spirit**
+**Family Spirit**
 
 Let's nurture harmonious relationships based on mutual respect and professional understanding.
 
@@ -432,7 +430,7 @@ Let's nurture harmonious relationships based on mutual respect and professional 
 - Respect Each Other
 - Empathy & Harmony
 
-1. **Speed**
+**Speed**
 
 Let's think quickly and measurably, act responsively, and be fully prepared to achieve common goals.
 
@@ -440,7 +438,7 @@ Let's think quickly and measurably, act responsively, and be fully prepared to a
 - Fast Respond
 - Fail Fast Learn Faster
 
-1. **Togetherness**
+**Togetherness**
 
 Let's collaborate openly and transparently to achieve common goals.
 
@@ -448,7 +446,7 @@ Let's collaborate openly and transparently to achieve common goals.
 - Collaborative
 - Cooperative
 
-1. **Innovation**
+**Innovation**
 
 Let's embrace high curiosity and creativity to produce and realize new ideas with practical value.
 
@@ -456,7 +454,7 @@ Let's embrace high curiosity and creativity to produce and realize new ideas wit
 - Curiosity
 - Divergent Thinking
 
-1. **Customer Centric**
+**Customer Centric**
 
 Let's aim to create exceptional experiences that not only meet but exceed the expectations of all stakeholders.
 
@@ -468,7 +466,7 @@ Let's aim to create exceptional experiences that not only meet but exceed the ex
 
 ### Indonesia
 
-1. **Awal Mula TLab**
+**Awal Mula TLab**
 
 Pada bulan Desember 2009, para penggemar Perangkat Lunak Sumber Terbuka membentuk komunitas yang disebut TLab.
 
@@ -476,33 +474,33 @@ Pembentukan Badan Usaha
 
 TLab terdaftar sebagai badan usaha dengan nama CV Technology Open-Source Laboratory pada bulan Maret 2010. Kemudian, pada tahun 2012, para pendiri TLab sepakat untuk mengubah CV menjadi PT dan mengubah namanya menjadi PT Teknologi Kode Indonesia.
 
-1. **Penghargaan**
+**Penghargaan**
 
 Setelah melewati rangkaian kompetisi The NextDev 2016, JURU muncul sebagai pemenang kompetisi pembuatan aplikasi digital untuk smart city dan smart rural yang diadakan oleh Telkomsel.
 
-1. **Kelahiran JURU**
+**Kelahiran JURU**
 
 Kemudian, pada bulan Desember 2017, lahirlah anak perusahaan bernama PT Juru Supervisi Indonesia yang diberi merek JURU yang bergerak di bidang penyediaan solusi parkir terpadu.
 
-1. **Pendirian SUHU**
+**Pendirian SUHU**
 
 Pada bulan Desember 2018, anak perusahaan lainnya bernama PT Kata Suhu Kita didirikan dengan merek SUHU yang bergerak di bidang Pelatihan dan Konsultasi IT.
 
-1. **Pusat Bisnis & Kolaborasi**
+**Pusat Bisnis & Kolaborasi**
 
 Untuk memperluas jangkauannya dan mencapai lebih banyak klien, pada bulan September 2019 TLab membuka kantor bisnis di Jakarta.
 
-1. **Pusat Data**
+**Pusat Data**
 
 TLab berhasil membangun data center.
 
-1. **Pusat Pengembangan SDM**
+**Pusat Pengembangan SDM**
 
 TLab juga fokus pada pengembangan sumber daya manusia bagi karyawan TLab Group, oleh karena itu Pusat Pengembangan TLab didirikan pada tahun 2022.
 
 ### Inggris
 
-1. **The Beginning of TLab**
+**The Beginning of TLab**
 
 In December 2009, enthusiasts of Open-Source Software formed a community called TLab.
 
@@ -510,27 +508,27 @@ Establishment of a Business Entity
 
 TLab was registered as a business entity called CV Technology Open-Source Laboratory in March 2010. Then, in 2012, the founders of TLab agreed to turn the CV into a PT and changed its name to PT Teknologi Kode Indonesia.
 
-1. **Achievement**
+**Achievement**
 
 After going through The NextDev 2016 competition series, JURU emerged as the winner of the smart city and smart rural digital application creation competition held by Telkomsel.
 
-1. **Birth of JURU**
+**Birth of JURU**
 
 Then, in December 2017, a subsidiary named PT Juru Supervisi Indonesia was born and was given the brand JURU which is engaged in providing one stop parking solution.
 
-1. **The Establishment of SUHU**
+**The Establishment of SUHU**
 
 In December 2018, another subsidiary named PT Kata Suhu Kita was born, which was carried under the brand SUHU and is engaged in IT Training and Consultant.
 
-1. **Business & Collaboration Center**
+**Business & Collaboration Center**
 
 In order to spread its wings to reach many clients, in September 2019 TLab opened a business office in Jakarta.
 
-1. **Data Center**
+**Data Center**
 
 TLab has successfully built a data center.
 
-1. **People Development Center**
+**People Development Center**
 
 TLab also focuses on developing human resources for TLab Group employees, therefore the TLab Development Center was established in 2022.
 
@@ -786,37 +784,37 @@ Are you passionate about collaboration and the growth of your business? we belie
 
 ### Indonesia
 
-1. **Dubai Office**
+- **Dubai Office**
 
 1-342, Bin Dasmal Building, Al Quoz- 1, Sheikh Zayed Road , Dubai, The United Arab Emirates +971502254189
 
-1. **People Development Cente**r
+- **People Development Cente**r
 
 JI. Pareanom No.15, Patangpuluhan Wirobrajan, Yogyakarta 55251 (0274)-2251727
 
-1. **Business Center**
+- **Business Center**
 
 Jl. Pengadegan Utara No. 17, Cikoko Pancoran, South Jakarta 12770 (021)-26965734
 
-1. **Head Office**
+- **Head Office**
 
 Jl. Tanjung No. 126, Sorosutan Umbulharjo, Yogyakarta 55162 (0274)-2870394
 
 ### Inggris
 
-1. **Dubai Office**
+- **Dubai Office**
 
 1-342, Bin Dasmal Building, Al Quoz- 1, Sheikh Zayed Road , Dubai, The United Arab Emirates +971502254189
 
-1. **People Development Cente**r
+- **People Development Cente**r
 
 JI. Pareanom No.15, Patangpuluhan Wirobrajan, Yogyakarta 55251 (0274)-2251727
 
-1. **Business Center**
+- **Business Center**
 
 Jl. Pengadegan Utara No. 17, Cikoko Pancoran, South Jakarta 12770 (021)-26965734
 
-1. **Head Office**
+- **Head Office**
 
 Jl. Tanjung No. 126, Sorosutan Umbulharjo, Yogyakarta 55162 (0274)-2870394
 
@@ -940,53 +938,53 @@ TLab is reliable and able to adapt to the dynamics of user needs
 
 ### Indonesia
 
-1. **Dinas Perpustakaan dan Arsip Daerah**
+**Dinas Perpustakaan dan Arsip Daerah**
 
 Pemerintahan - 2016, 2019, 2020, 2023
 
 Yogyakarta
 
-1. **Universitas Gadjah Mada**
+**Universitas Gadjah Mada**
 
 Pendidikan - 2013, 2014, 2016, 2023
 
 Yogyakarta
 
-1. **PT Kesan Digital Nusantara**
+**PT Kesan Digital Nusantara**
 
 Perusahaan - 2019, 2022
 
 Jakarta
 
-1. **Pemerintah Kota Balikpapan**
+**Pemerintah Kota Balikpapan**
 
 Balikpapan
 
-1. **UIN Sunan Kalijaga**
+**UIN Sunan Kalijaga**
 
 Pendidikan
 
 Yogyakarta
 
-1. **Kemendikbudristek Republik Indonesia**
+**Kemendikbudristek Republik Indonesia**
 
 Jakarta
 
 Pemerintahan
 
-1. **Bank Sumselbabel**
+**Bank Sumselbabel**
 
 Perusahaan - 2022, 2024
 
 Palembang
 
-1. **Jayamotor Bukittinggi**
+**Jayamotor Bukittinggi**
 
 Otomotif - 2013, 2019, 2022
 
 Bukitinggi
 
-1. **SUHU**
+**SUHU**
 
 PT Kata Suhu Kita
 
@@ -994,85 +992,85 @@ Yogyakarta
 
 Pendidikan - 2019, 2023, 2024
 
-1. **Institut Pertanian Bogor**
+**Institut Pertanian Bogor**
 
 Bogor
 
 Pendidikan
 
-1. **Kementerian Sosial Republik Indonesia**
+**Kementerian Sosial Republik Indonesia**
 
 Pemerintahan
 
 Jakarta
 
-1. **Diskominfo dan Sandi Kabupaten Banyuwangi**
+**Diskominfo dan Sandi Kabupaten Banyuwangi**
 
 Pemerintahan - 2022
 
 Banyuwangi
 
-1. **Pemerintah Kota Yogyakarta**
+**Pemerintah Kota Yogyakarta**
 
 Pemerintahan
 
 Yogyakarta
 
-1. **Badan Pengawasan Obat dan Makanan**
+**Badan Pengawasan Obat dan Makanan**
 
 Pemerintahan - 2020
 
 Jakarta
 
-1. **Kementerian Keuangan Republik Indonesia**
+**Kementerian Keuangan Republik Indonesia**
 
 Pemerintahan
 
 Jakarta
 
-1. **Universitas Diponegoro**
+**Universitas Diponegoro**
 
 Pendidikan
 
 Semarang
 
-1. **SATPAS POLDA Kalimantan Barat**
+**SATPAS POLDA Kalimantan Barat**
 
 Pemerintahan - 2023
 
 Pontianak
 
-1. **Balai Besar Veteriner Wates Yogyakarta**
+**Balai Besar Veteriner Wates Yogyakarta**
 
 Pemerintahan - 2014
 
 Yogyakarta
 
-1. **Universitas Atma Jaya**
+**Universitas Atma Jaya**
 
 Pendidikan
 
 Yogyakarta
 
-1. **Dinas Kesehatan Puskesmas Sawit Boyolali**
+**Dinas Kesehatan Puskesmas Sawit Boyolali**
 
 Pemerintahan - 2019
 
 Boyolali
 
-1. **Pemerintah Provinsi Kalimantan Selatan**
+**Pemerintah Provinsi Kalimantan Selatan**
 
 Pemerintahan
 
 Banjarbaru
 
-1. **Dinas Perhubungan Kota Banjarmasin**
+**Dinas Perhubungan Kota Banjarmasin**
 
 Pemerintahan - 2022
 
 Banjarmasin
 
-1. **Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia**
+**Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia**
 
 Pemerintahan
 
@@ -1080,55 +1078,55 @@ Jakarta
 
 ### Inggris
 
-1. **Regional Library and Archives Office**
+**Regional Library and Archives Office**
 
 Government - 2016, 2019, 2020, 2023|
 
 Yogyakarta
 
-1. **Gadjah Mada University**
+**Gadjah Mada University**
 
 Education - 2013, 2014, 2016, 2023|
 
 Yogyakarta
 
-1. **PT Kesan Digital Nusantara**
+**PT Kesan Digital Nusantara**
 
 Enterprise - 2019, 2022
 
 Jakarta
 
-1. **Balikpapan City Government**
+**Balikpapan City Government**
 
 Government
 
 Balikpapan
 
-1. **UIN Sunan Kalijaga**
+**UIN Sunan Kalijaga**
 
 Education
 
 Yogyakarta
 
-1. **Kemendikbudristek Republik Indonesia**
+**Kemendikbudristek Republik Indonesia**
 
 Government
 
 Jakarta
 
-1. **Sumselbabel Bank**
+**Sumselbabel Bank**
 
 Enterprise - 2022, 2024
 
 Palembang
 
-1. **Jayamotor Bukittinggi**
+**Jayamotor Bukittinggi**
 
 Automotive - 2013, 2019, 2022
 
 Bukitinggi
 
-1. **SUHU**
+**SUHU**
 
 PT Kata Suhu Kita
 
@@ -1136,85 +1134,85 @@ Education - 2019, 2023, 2024
 
 Yogyakarta
 
-1. **Bogor Agricultural Institute**
+**Bogor Agricultural Institute**
 
 Education
 
 Bogor
 
-1. **Ministry of Social Affairs Republic of Indonesia**
+**Ministry of Social Affairs Republic of Indonesia**
 
 Government
 
 Jakarta
 
-1. **Communication and Information Technology Office of Banyuwangi**
+**Communication and Information Technology Office of Banyuwangi**
 
 Government - 2022
 
 Banyuwangi
 
-1. **Yogyakarta City Government**
+**Yogyakarta City Government**
 
 Government
 
 Yogyakarta
 
-1. **National Food and Drug Agency**
+**National Food and Drug Agency**
 
 Government - 2020
 
 Jakarta
 
-1. **Ministry of Finance of the Republic of Indonesia**
+**Ministry of Finance of the Republic of Indonesia**
 
 Government
 
 Jakarta
 
-1. **Diponegoro University**
+**Diponegoro University**
 
 Education
 
 Semarang
 
-1. **SATPAS POLDA Kalimantan Barat**
+**SATPAS POLDA Kalimantan Barat**
 
 Government - 2023
 
 Pontianak
 
-1. **Wates Yogyakarta Veteriner Center**
+**Wates Yogyakarta Veteriner Center**
 
 Government - 2014
 
 Yogyakarta
 
-1. **Atma Jaya University**
+**Atma Jaya University**
 
 Education
 
 Yogyakarta
 
-1. **Public Health Center Sawit Boyolali**
+**Public Health Center Sawit Boyolali**
 
 Government - 2019
 
 Boyolali
 
-1. **South Kalimantan Provincial Government**
+**South Kalimantan Provincial Government**
 
 Government
 
 Banjarbaru
 
-1. **Transportation Department of Banjarmasin City**
+**Transportation Department of Banjarmasin City**
 
 Banjarmasin
 
 Government - 2022
 
-1. **Ministry of Environment and Forestry of the Republic of Indonesia**
+**Ministry of Environment and Forestry of the Republic of Indonesia**
 
 Jakarta
 
@@ -1272,33 +1270,33 @@ TLab believes that technology should adapt to the unique requirements of each bu
 
 TLab menyediakan layanan pengembangan TI yang dipersonalisasi untuk memenuhi kebutuhan spesifik bisnis Anda.
 
-1. **Pengembangan Perangkat Lunak**
+**Pengembangan Perangkat Lunak**
 
 - Pengembangan Aplikasi Seluler
 - Pengembangan Web
 - Pengembangan API
 - Integrasi Sistem
 
-1. **Kecerdasan Buatan**
+**Kecerdasan Buatan**
 
 - Big Data
 - Data Lake
 - Data Warehouse
 - Kecerdasan Bisnis (Business Intelligence)
 
-1. **Pembelajaran Mesin dan Implementasi AI**
+**Pembelajaran Mesin dan Implementasi AI**
 
 - Robot Obrolan Cerdas
 - Manajemen Pengetahuan Cerdas
 
-1. **Penyedia Layanan TI Kelola**
+**Penyedia Layanan TI Kelola**
 
 - Konsultasi Teknologi Informasi
 - Konsultasi Pusat Data
 - Product Development
 - Perawatan Sistem
 
-1. **Kreatif, Desain & Produksi**
+**Kreatif, Desain & Produksi**
 
 - Brand Development
 - Desain Logo & Identitas Merek
@@ -1308,33 +1306,33 @@ TLab menyediakan layanan pengembangan TI yang dipersonalisasi untuk memenuhi keb
 
 TLab provides personalized IT development services to fit your specific business needs.
 
-1. **Software Development**
+**Software Development**
 
 - Mobile App Development
 - Web Development
 - API Development
 - System Integration
 
-1. **Data Intelligence**
+**Data Intelligence**
 
 - Big Data
 - Data Lake
 - Data Warehouse
 - Business Intelligence
 
-1. **Machine Learning and AI Implementation**
+**Machine Learning and AI Implementation**
 
 - Smart Chat Bot
 - Smart Knowledge Management System
 
-1. **IT Managed Services Provider (MSP)**
+**IT Managed Services Provider (MSP)**
 
 - IT Consulting
 - Data Center Consulting
 - Product Development
 - System Maintenance
 
-1. **Creative, Design & Production**
+**Creative, Design & Production**
 
 - Brand Development
 - Logo & Brand Identity Design
@@ -1344,45 +1342,45 @@ TLab provides personalized IT development services to fit your specific business
 
 ### Indonesia
 
-1. **Konsultasi**
+- **Konsultasi**
 
 Konsultasi dengan Tim IT Tlab untuk menggali requirement lebih detail sehingga nantinya informasi ini bisa membantu tim dalam membuat penawaran baik teknis maupun anggaran proyek. Hasil dari proses ini berupa proposal penawaran teknis (include timeline, keluaran pekerjaan, rencana tim) dan proposal anggaran proyek.
 
-1. **Presentasi**
+- **Presentasi**
 
 Dalam tahap ini, tim Bisnis TLab memberikan presentasi menarik yang tidak hanya memperkenalkan TLab, tetapi juga menawarkan solusi inovatif yang dapat mengatasi berbagai tantangan yang mungkin dihadapi oleh klien potensial.
 
-1. **Pengembangan**
+- **Pengembangan**
 
 Proses development dimulai dengan adanya kick-off meeting. Dalam prosesnya dilaporkan dalam bentuk meeting demo dan akses dashboard monitoring project sehingga dapat melihat progres development yang dilakukan oleh tim IT TLab. Tahapan pengembangan meliputi Research for User Requirement, Pembuatan Design Hifi, Development Backend & Frontend, dan Testing Internal (oleh tim TLab).
 
-1. **Penyerahan**
+- **Penyerahan**
 
 Melakukan deployment kepada pihak klien dan melakukan user testing, apabila sudah sesuai maka akan dilakukan serah terima aplikasi yang ditandai dengan penandatanganan berita acara serah terima.
 
-1. **Pemeliharaan**
+- **Pemeliharaan**
 
 Dukungan layanan pemeliharaan untuk menjaga sistem tetap berjalan dengan baik dan aman.
 
 ### Inggris
 
-1. **Consultation**
+- **Consultation**
 
 Consultation with the TLab IT Team to delve deeper into the requirements will provide information that can assist the team in creating both technical and budget proposals for the project. The result of this process will be a proposal that includes a technical offer (with timeline, deliverables, and team plan) and a project budget proposal.
 
-1. **Presentation**
+- **Presentation**
 
 In this phase, the TLab Business team delivers an engaging presentation that not only introduces TLab but also offers innovative solutions to address various challenges that potential clients may face.
 
-1. **Development**
+- **Development**
 
 The development process begins with a kick-off meeting. Progress is reported through demo meetings and access to the project monitoring dashboard, allowing you to see the development progress made by the TLab IT team. The development stages include User Requirements Research, HiFi Design Creation, Backend & Frontend Development, and Internal Testing (by the TLab team).
 
-1. **Delivery**
+- **Delivery**
 
 Deploying to the client and conducting user testing, if everything is satisfactory, the application will be handed over and marked by signing the handover report.
 
-1. **Maintenance**
+- **Maintenance**
 
 Support maintenance services to keep the system running smoothly and securely.
 
@@ -1458,21 +1456,21 @@ TLab believes that technology should adapt to the unique requirements of each bu
 
 Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami dapat mengubah ide Anda menjadi kenyataan
 
-1. **Pengembangan Aplikasi Seluler**
+**Pengembangan Aplikasi Seluler**
 
 Kami berspesialisasi dalam membuat aplikasi mobile yang inovatif dan berpusat pada pengguna yang mengangkat bisnis ke tingkat yang lebih tinggi.
 
-1. **Pengembangan Web**
+**Pengembangan Web**
 
 Kami berkomitmen untuk memberikan solusi web yang inovatif. Website yang memukau dan ramah pengguna mendorong keterlibatan akan membantu mencapai tujuan bisnis
 
 .
 
-1. **Pengembangan API**
+**Pengembangan API**
 
 Menciptakan API yang kuat dan dapat diskalakan yang memungkinkan integrasi yang mulus dan menyederhanakan proses.
 
-1. **Integrasi sistem**
+**Integrasi sistem**
 
 Menyeragamkan operasi dan memaksimalkan efisiensi melalui integrasi sistem yang mulus.
 
@@ -1482,19 +1480,19 @@ Menyeragamkan operasi dan memaksimalkan efisiensi melalui integrasi sistem yang 
 
 Explore our software development services and discover how we can transform your ideas into reality
 
-1. **Mobile App Development**
+**Mobile App Development**
 
 We specialize in crafting innovative and user-centric mobile applications that elevate businesses to new heights.
 
-1. **Web Development**
+**Web Development**
 
 We are committed to providing innovative web solutions. Stunning and user-friendly websites that drive engagement will help achieve business goals.
 
-1. **API Development**
+**API Development**
 
 Creating robust and scalable APIs that enable seamless integration and streamline processes.
 
-1. **System Integration**
+**System Integration**
 
 Streamlining operations and maximizing efficiency through seamless system integration.
 
@@ -1600,14 +1598,17 @@ TLab believes that technology should adapt to the unique requirements of each bu
 
 Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami dapat mengubah ide Anda menjadi kenyataan
 
-1. **Big Data  
-    **Layanan Big Data lanjutan untuk bisnis Anda yang dapat mengungkap data berharga, membantu pengambilan keputusan yang tepat, dan mendorong bisnis Anda menuju kesuksesan.
-2. **Data Lake  
-    **Berfungsi sebagai repositori pusat untuk berbagai jenis data, termasuk data terstruktur seperti basis data, dan data tidak terstruktur seperti unggahan media sosial atau video.
-3. **Data Warehouse  
-    **Repositori terpusat yang menyimpan data terintegrasi dari satu atau lebih sumber yang berbeda. Dapat digunakan untuk menjalankan kueri kompleks dan menghasilkan laporan guna keperluan intelijen bisnis dan analitik.
-4. **Business Intelligence  
-    **Dapat digunakan untuk mengidentifikasi tren, pola, dan peluang. Hal ini memfasilitasi perencanaan strategis, peningkatan operasional, serta keunggulan kompetitif di pasar.
+**Big Data  
+**Layanan Big Data lanjutan untuk bisnis Anda yang dapat mengungkap data berharga, membantu pengambilan keputusan yang tepat, dan mendorong bisnis Anda menuju kesuksesan.
+
+**Data Lake  
+**Berfungsi sebagai repositori pusat untuk berbagai jenis data, termasuk data terstruktur seperti basis data, dan data tidak terstruktur seperti unggahan media sosial atau video.
+
+**Data Warehouse  
+**Repositori terpusat yang menyimpan data terintegrasi dari satu atau lebih sumber yang berbeda. Dapat digunakan untuk menjalankan kueri kompleks dan menghasilkan laporan guna keperluan intelijen bisnis dan analitik.
+
+**Business Intelligence  
+**Dapat digunakan untuk mengidentifikasi tren, pola, dan peluang. Hal ini memfasilitasi perencanaan strategis, peningkatan operasional, serta keunggulan kompetitif di pasar.
 
 ### Inggris
 
@@ -1615,14 +1616,17 @@ Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami da
 
 Explore our software development services and discover how we can transform your ideas into reality
 
-1. **Big Data  
-    **Advanced Big Data Services for your business that can uncover valuable data, make informed decisions, and help drive your business toward success.
-2. **Data Lake  
-    **Serves as a central repository for various types of data, including structured data like databases, and unstructured data like social media posts or videos..
-3. **Data Warehouse  
-    **A centralized repository that stores integrated data from one or more disparate sources. It can perform complex queries and generate reports for business intelligence and analytics purposes.
-4. **Business Intelligence  
-    **Can be used to identify trends, patterns, and opportunities. This facilitates strategic planning, operational improvements, and competitive advantage in the market.
+**Big Data  
+**Advanced Big Data Services for your business that can uncover valuable data, make informed decisions, and help drive your business toward success.
+
+**Data Lake  
+**Serves as a central repository for various types of data, including structured data like databases, and unstructured data like social media posts or videos..
+
+**Data Warehouse  
+**A centralized repository that stores integrated data from one or more disparate sources. It can perform complex queries and generate reports for business intelligence and analytics purposes.
+
+**Business Intelligence  
+**Can be used to identify trends, patterns, and opportunities. This facilitates strategic planning, operational improvements, and competitive advantage in the market.
 
 ## Keterampilan yang Berharga
 
@@ -1820,10 +1824,11 @@ TLab believes that technology should adapt to the unique requirements of each bu
 
 Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami dapat mengubah ide Anda menjadi kenyataan
 
-1. **Smart Chat Bot  
-    **Aplikasi perangkat lunak yang didukung oleh kecerdasan buatan dan dirancang untuk meniru percakapan atau interaksi manusia melalui teks atau suara.
-2. **Smart Knowledge Management  
-    **Proses sistematis dalam menciptakan, berbagi, menggunakan, dan mengelola pengetahuan serta informasi di dalam suatu organisasi dengan memanfaatkan teknologi dan strategi yang canggih.
+**Smart Chat Bot  
+**Aplikasi perangkat lunak yang didukung oleh kecerdasan buatan dan dirancang untuk meniru percakapan atau interaksi manusia melalui teks atau suara.
+
+**Smart Knowledge Management  
+**Proses sistematis dalam menciptakan, berbagi, menggunakan, dan mengelola pengetahuan serta informasi di dalam suatu organisasi dengan memanfaatkan teknologi dan strategi yang canggih.
 
 ### Inggris
 
@@ -1831,10 +1836,11 @@ Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami da
 
 Explore our software development services and discover how we can transform your ideas into reality
 
-1. **Smart Chat Bot  
-    **Advanced Big Data Services for your business that can uncover valuable data, make informed decisions, and help drive your business toward success.
-2. **Smart Knowledge Management  
-    **Serves as a central repository for various types of data, including structured data like databases, and unstructured data like social media posts or videos.
+**Smart Chat Bot  
+**Advanced Big Data Services for your business that can uncover valuable data, make informed decisions, and help drive your business toward success.
+
+**Smart Knowledge Management  
+**Serves as a central repository for various types of data, including structured data like databases, and unstructured data like social media posts or videos.
 
 ## Keterampilan yang Berharga
 
@@ -2032,14 +2038,17 @@ TLab believes that technology should adapt to the unique requirements of each bu
 
 Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami dapat mengubah ide Anda menjadi kenyataan
 
-1. **Konsultasi TI (Teknologi Informasi)  
-    **Konsultasi TI mencakup pemberian saran dan panduan ahli kepada organisasi mengenai cara memanfaatkan teknologi informasi (TI) secara efektif untuk mencapai tujuan bisnis mereka
-2. **Konsultasi Pusat Data  
-    **Layanan Konsultasi Pusat Data kami mengoptimalkan infrastruktur Anda untuk kinerja dan efisiensi maksimal, sekaligus memastikan kepatuhan terhadap standar keandalan, skalabilitas, dan keamanan.
-3. **Pengembangan Produk  
-    **Pengembangan produk, baik produk baru maupun peningkatan produk yang sudah ada, mencakup proses ideasi, desain, pengembangan, pengujian, hingga peluncuran guna memenuhi kebutuhan pelanggan, meningkatkan fungsi produk, dan mencapai tujuan bisnis.
-4. **Konsultasi Pusat Data  
-    **Pemeliharaan sistem bertujuan untuk menjaga operasional, efisiensi, dan keamanan sistem agar masa pakainya lebih panjang serta terus memenuhi sasaran dan kebutuhan kinerja yang ditetapkan.
+**Konsultasi TI (Teknologi Informasi)  
+**Konsultasi TI mencakup pemberian saran dan panduan ahli kepada organisasi mengenai cara memanfaatkan teknologi informasi (TI) secara efektif untuk mencapai tujuan bisnis mereka
+
+**Konsultasi Pusat Data  
+**Layanan Konsultasi Pusat Data kami mengoptimalkan infrastruktur Anda untuk kinerja dan efisiensi maksimal, sekaligus memastikan kepatuhan terhadap standar keandalan, skalabilitas, dan keamanan.
+
+**Pengembangan Produk  
+**Pengembangan produk, baik produk baru maupun peningkatan produk yang sudah ada, mencakup proses ideasi, desain, pengembangan, pengujian, hingga peluncuran guna memenuhi kebutuhan pelanggan, meningkatkan fungsi produk, dan mencapai tujuan bisnis.
+
+**Konsultasi Pusat Data  
+**Pemeliharaan sistem bertujuan untuk menjaga operasional, efisiensi, dan keamanan sistem agar masa pakainya lebih panjang serta terus memenuhi sasaran dan kebutuhan kinerja yang ditetapkan.
 
 ### Inggris
 
@@ -2047,14 +2056,17 @@ Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami da
 
 Explore our software development services and discover how we can transform your ideas into reality
 
-1. **IT Consulting  
-    **IT consulting involves providing expert advice and guidance to organizations on how to effectively utilize information technology (IT) to achieve their business objectives.
-2. **Data Center Consulting  
-    **Our Data Center Consulting services optimize your infrastructure for peak performance and efficiency, ensuring it meets standards of reliability, scalability, and security.
-3. **Product Development  
-    **Creating new products or improving existing ones involves idea, design, development, testing, and launch to meet customer needs, enhance product functionality, and achieve business objectives.
-4. **System Maintenance  
-    **System maintenance aims to maintain operational, efficiency, and security to extend the system's lifespan while ensuring it continues to meet its goals and performance requirements.
+**IT Consulting  
+**IT consulting involves providing expert advice and guidance to organizations on how to effectively utilize information technology (IT) to achieve their business objectives.
+
+**Data Center Consulting  
+**Our Data Center Consulting services optimize your infrastructure for peak performance and efficiency, ensuring it meets standards of reliability, scalability, and security.
+
+**Product Development  
+**Creating new products or improving existing ones involves idea, design, development, testing, and launch to meet customer needs, enhance product functionality, and achieve business objectives.
+
+**System Maintenance  
+**System maintenance aims to maintain operational, efficiency, and security to extend the system's lifespan while ensuring it continues to meet its goals and performance requirements.
 
 ## Keterampilan yang Berharga
 
@@ -2250,12 +2262,14 @@ TLab believes that technology should adapt to the unique requirements of each bu
 
 Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami dapat mengubah ide Anda menjadi kenyataan
 
-1. **Brand Development  
-    **Layanan _Creative Design & Production_ kami siap mewujudkan ide-ide Anda menjadi kenyataan melalui konsep visual yang memukau dan eksekusi yang profesional. Tim kami ahli dalam menciptakan desain yang menarik di berbagai platform media, mulai dari proses brainstorming awal hingga tahap akhir pengiriman. Apapun kebutuhan Anda—grafis yang kuat, konten multimedia yang menarik, atau materi pemasaran yang berdampak—kami menyediakan solusi yang disesuaikan dan relevan dengan audiens Anda. Tingkatkan citra dan pesan merek Anda dengan pendekatan inovatif kami dalam desain dan produksi kreatif.
-2. **Logo & Brand Identity Design  
-    **Layanan _Logo & Brand Identity Design_ kami berfokus pada penciptaan elemen visual yang unik dan merepresentasikan identitas merek Anda. Kami dapat merancang logo yang tak lekang oleh waktu, menentukan palet warna, serta memilih tipografi yang tepat untuk memastikan merek Anda tampil berkesan dan konsisten. Baik Anda memulai merek baru maupun melakukan rebranding, desain kami dibuat khusus untuk menarik audiens target Anda serta menyampaikan cerita merek dengan efektif. Pendekatan kreatif kami dalam desain logo dan identitas mampu meningkatkan kredibilitas dan daya ingat merek Anda
-3. **UI & UX Design  
-    **Desain _User Interface (UI)_ dan _User Experience (UX)_ berfokus pada penciptaan antarmuka yang menarik secara visual, mudah digunakan, dan intuitif.
+**Brand Development  
+**Layanan _Creative Design & Production_ kami siap mewujudkan ide-ide Anda menjadi kenyataan melalui konsep visual yang memukau dan eksekusi yang profesional. Tim kami ahli dalam menciptakan desain yang menarik di berbagai platform media, mulai dari proses brainstorming awal hingga tahap akhir pengiriman. Apapun kebutuhan Anda—grafis yang kuat, konten multimedia yang menarik, atau materi pemasaran yang berdampak—kami menyediakan solusi yang disesuaikan dan relevan dengan audiens Anda. Tingkatkan citra dan pesan merek Anda dengan pendekatan inovatif kami dalam desain dan produksi kreatif.
+
+**Logo & Brand Identity Design  
+**Layanan _Logo & Brand Identity Design_ kami berfokus pada penciptaan elemen visual yang unik dan merepresentasikan identitas merek Anda. Kami dapat merancang logo yang tak lekang oleh waktu, menentukan palet warna, serta memilih tipografi yang tepat untuk memastikan merek Anda tampil berkesan dan konsisten. Baik Anda memulai merek baru maupun melakukan rebranding, desain kami dibuat khusus untuk menarik audiens target Anda serta menyampaikan cerita merek dengan efektif. Pendekatan kreatif kami dalam desain logo dan identitas mampu meningkatkan kredibilitas dan daya ingat merek Anda
+
+**UI & UX Design  
+**Desain _User Interface (UI)_ dan _User Experience (UX)_ berfokus pada penciptaan antarmuka yang menarik secara visual, mudah digunakan, dan intuitif.
 
 ### Inggris
 
@@ -2263,12 +2277,14 @@ Jelajahi layanan pengembangan perangkat lunak kami dan temukan bagaimana kami da
 
 Explore our software development services and discover how we can transform your ideas into reality
 
-1. **Brand Development  
-    **Our Creative Design & Production services can bring your ideas to life with stunning visual concepts and expert execution. Our team specializes in crafting captivating designs across various media platforms, from initial brainstorming to final delivery. Whether you need compelling graphics, engaging multimedia content, or impactful marketing materials, we provide tailored solutions that resonate with your audience. Elevate your brand's presence and message with our innovative approach to creative design and production.
-2. **Logo & Brand Identity Design  
-    **Our Logo & Brand Identity Design services specialize in creating unique visual elements that represent your brand. We can design timeless logos, select color palettes, and choose typography to make sure your brand is memorable and cohesive. Whether you are starting a new brand or rebranding, our designs are tailored to appeal to your target audience and effectively tell your brand's story. Our creative approach to logo and identity design can help improve your brand's credibility and recognition.
-3. **UI & UX Design  
-    **User Interface (UI) and User Experience (UX) design focuses on creating interfaces that are visually appealing, user-friendly, and intuitive.
+**Brand Development  
+**Our Creative Design & Production services can bring your ideas to life with stunning visual concepts and expert execution. Our team specializes in crafting captivating designs across various media platforms, from initial brainstorming to final delivery. Whether you need compelling graphics, engaging multimedia content, or impactful marketing materials, we provide tailored solutions that resonate with your audience. Elevate your brand's presence and message with our innovative approach to creative design and production.
+
+**Logo & Brand Identity Design  
+**Our Logo & Brand Identity Design services specialize in creating unique visual elements that represent your brand. We can design timeless logos, select color palettes, and choose typography to make sure your brand is memorable and cohesive. Whether you are starting a new brand or rebranding, our designs are tailored to appeal to your target audience and effectively tell your brand's story. Our creative approach to logo and identity design can help improve your brand's credibility and recognition.
+
+**UI & UX Design  
+**User Interface (UI) and User Experience (UX) design focuses on creating interfaces that are visually appealing, user-friendly, and intuitive.
 
 ## Keterampilan yang Berharga
 
@@ -3692,39 +3708,37 @@ Read More -->
 ### Indonesia
 
 - Dengan pengalaman lebih dari 14 tahun di industri TI, TLab telah berhasil menyelesaikan banyak pekerjaan.
-
-1. **Kepakaran Mendalam**
+- **Kepakaran Mendalam**
 
 TLab sangat bangga dengan tim ahli yang berspesialisasi di setiap tahap pengembangan.
 
-1. **Orang-orang Berbakat**
+- **Orang-orang Berbakat**
 
 Lebih dari 100 Talenta TLab telah menerima sertifikasi nasional dan/atau internasional, yang mengakui keterampilan dan kemampuan luar biasa mereka.
 
-1. **Berpusat pada Pelanggan**
+- **Berpusat pada Pelanggan**
 
 TLab menjadikan misi untuk sepenuhnya memahami setiap kebutuhan dan preferensi klien. Dengan komunikasi proaktif dan transparan.
 
-1. **Keamanan Utama**
+- **Keamanan Utama**
 
 TLab menerapkan manajemen keamanan informasi sehingga kerahasiaan, integritas, dan ketersediaan informasi klien.
 
 ### Inggris
 
 - With over 14 years of experience in the IT industry, TLab have successfully completed an extensive amount of work.
-
-1. **Talented People**
+- **Talented People**
 
 100+ TLab Talents have received national and/or international certifications, recognizing their exceptional skills and abilities.
 
-1. **Deep Expertise**
+- **Deep Expertise**
 
 TLab takes great pride in the team of experts who specialize in every stage of development.
 
-1. **Customer Centric**
+- **Customer Centric**
 
 TLab makes its mission to fully grasp every client's needs and preferences with proactive communication and transparency.
 
-1. **Security First**
+- **Security First**
 
 TLab implements information security management so that the confidentiality, integrity, and availability of client information.
